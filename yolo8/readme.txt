@@ -1,0 +1,3 @@
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3E0Q1E2SFFJWlpydUJjSUZYV3NaMi1SX1JiZ3xBQ3Jtc0ttX1FCd2l6SUR2ejBvVm1DbzlReUVOdU82Z21ZRUpodmpOSG1kQmc4ZVMwRDBMR1JaVmdXQlpIM2VTTGNxd1pLLTJxZ3FmMzNjSndVOFpVMjhOUVZHUGNEV3FfUUxRRGhDdW0yZmlfVVFWYUVKQ0hGMA&q=https%3A%2F%2Funiverse.roboflow.com%2Fbronkscottema%2Ffootball-player-detection%2Fdataset%2F3%2Fdownload&v=m7ijV4VcTfQ
+
+football dataset on roboflow
